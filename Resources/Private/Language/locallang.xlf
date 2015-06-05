@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+	<file t3:id="1415814909" source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:35Z" product-name="simpletask">
+		<header/>
+		<body>
+			<trans-unit id="task_title" xml:space="preserve">
+				<source>Simple Scheduler Task Demo</source>
+			</trans-unit>
+			<trans-unit id="task_description" xml:space="preserve">
+				<source>Demonstrates how to implement a task in the TYPO3 Scheduler</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
